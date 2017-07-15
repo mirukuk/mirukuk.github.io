@@ -141,21 +141,7 @@ a:hover {
 	margin-bottom: 10px;
 }
 
-.bl-icon-about:before {
-	content: "\e000";
-}
 
-.bl-icon-works:before {
-	content: "\e001";
-}
-
-.bl-icon-blog:before {
-	content: "\e002";
-}
-
-.bl-icon-contact:before {
-	content: "\e003";
-}
 
 .bl-main > section .bl-icon-close {
 	position: absolute;
@@ -232,7 +218,7 @@ div.bl-panel-items > div > div {
 .bl-content > ul li a {
 	display: block;
 	padding: 0;
-	border: 8px solid rgba(0,0,0,0.1);
+
 }
 
 .bl-content > ul li a img {
@@ -446,6 +432,6 @@ section.bl-expand .bl-icon-close {
 	}
 
 	.bl-content > ul li {
-		width: 40%;
+		width: 100%;
 	}
 }
